@@ -72,10 +72,12 @@ Ensure `ascii_art.py` is in the same directory as your new project file, or in y
 ├── ascii_art.py      <-- This script (the library)
 └── assets/
     └── player.jpg
+```
 
 Step 2: Import and Use
 In your main_app.py, import the convert_image_to_ascii function.
 
+```text
 # main_app.py
 
 # 1. Import the function from our module
@@ -94,3 +96,5 @@ if ascii_result:
     print(ascii_result)
 else:
     print("Error loading image.")
+
+
