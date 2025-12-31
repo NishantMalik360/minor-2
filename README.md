@@ -96,5 +96,13 @@ if ascii_result:
     print(ascii_result)
 else:
     print("Error loading image.")
+```
 
+📂 Project Structure
 
+```text
+.
+├── ascii_art.py         # Main logic script
+├── zlatan.jpg           # Default input image
+├── zlatan_output.txt    # Generated output (created after running)
+└── README.md            # This documentation
