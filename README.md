@@ -34,7 +34,7 @@ The algorithm follows a 4-step pipeline:
 ### Installation Steps
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/zlatan-ascii.git](https://github.com/YOUR_USERNAME/zlatan-ascii.git)
+    git clone https://github.com/NishantMalik360/minor-2.git
     cd zlatan-ascii
     ```
 
