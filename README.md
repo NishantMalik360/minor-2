@@ -66,5 +66,5 @@ Ensure `ascii_art.py` is in the same directory as your new project file, or in y
 /My_New_Project
 │
 ├── ascii_art.py
-└── player.jpg
+└── zlatan.jpg
 ```
