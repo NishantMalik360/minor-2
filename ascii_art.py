@@ -1,4 +1,3 @@
-import sys
 from PIL import Image
 
 # 1. CONSTANTS (Configuration)
