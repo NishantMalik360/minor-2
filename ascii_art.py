@@ -1,7 +1,7 @@
 from PIL import Image
 
 # 1. CONSTANTS (Configuration)
-ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", "."]
+ASCII_CHARS = ["@", "#", "$", "%", "?", "*", "+", ";", ":", ",", "."]
 
 # 2. HELPER FUNCTIONS (Small logical steps)
 def resize_image(image, new_width=100):
